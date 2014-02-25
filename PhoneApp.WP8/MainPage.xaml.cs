@@ -22,6 +22,7 @@ namespace PhoneApp.WP8
             //BuildLocalizedApplicationBar();
         }
 
+	// Changed from another repo
         // Sample code for building a localized ApplicationBar
         //private void BuildLocalizedApplicationBar()
         //{
